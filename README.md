@@ -4,3 +4,5 @@ A jupyter notebook for converting mrc files to other image file types. While not
 This notebook supports the following filetypes:
   - Input: png, jpg/jpeg, tiff/tif, mrc
   - Output: png, jpg, tiff
+
+All variables are retrieved from user input unless otherwise stated, so it's best to run this in JupyterHub. Upload the file you want to convert to your JupyterHub before running the code, otherwise, Jupyter will not be able to find your file.
