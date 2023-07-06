@@ -1,7 +1,7 @@
 # mrc-image-converter
 A jupyter notebook for converting mrc files to other image file types. While not the main functionality, it can also convert between supported image file types.
 
-This notebook supports the following filetypes:
+This notebook supports the following file types:
   - Input: png, jpg, tiff, mrc
   - Output: png, jpg, tiff
 
