@@ -5,7 +5,7 @@ This notebook supports the following filetypes:
   - Input: png, jpg, tiff, mrc
   - Output: png, jpg, tiff
 
-All variables are retrieved from user input unless otherwise stated, so it's best to run this in JupyterHub. Upload the file you want to convert to your JupyterHub before running the code, otherwise, Jupyter will not be able to find your file.
+All variables are retrieved from user input unless otherwise stated, so it's best to run this in JupyterHub. Upload the file you want to convert to your JupyterHub before running the code, otherwise, Jupyter will not be able to it.
 
 When converting mrc files, it may be useful to visualize the original file in napari if you want the file to save as it is displayed in napari.
 
