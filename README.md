@@ -6,3 +6,5 @@ This notebook supports the following filetypes:
   - Output: png, jpg, tiff
 
 All variables are retrieved from user input unless otherwise stated, so it's best to run this in JupyterHub. Upload the file you want to convert to your JupyterHub before running the code, otherwise, Jupyter will not be able to find your file.
+
+You can also run this in Google Colab with full interactivity support here:
