@@ -11,6 +11,6 @@ When converting mrc files, it may be useful to visualize the original file in na
 
 You can also run this in Google Colab with full interactivity support here:
 
-<a target="_blank" href="https://github.com/gracefacetseng/mrc-image-converter/blob/main/converter%20-%20google%20colab%20ver.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/gracefacetseng/mrc-image-converter/blob/main/converter%20-%20google%20colab%20ver.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
